@@ -21,10 +21,10 @@ This system helps in analyzing the theft claims and revert with premium changes 
 PROPOSED SYSTEM :                                                                                                                    
 In our proposed system the analysis provided are more accurate. The datasets are requested from the insurance agencies to perform the analysis. The analysis for vehicle theft, insurance claims and fraud analysis are performed under single application. The datasets are updated with new data with regular intervals to obtain accurate result. The regions where the motor vehicle theft is high and agents under whom the false insurance claims are made is analyzed and can be visualized using Tableau. The time consumed for performing the analysis is very less.
 ADVANTAGES :                                                                                                                        
-•	Data provided after analysis is accurate.
-•	All data are made available in single analysis 
-•	The regions where the vehicle theft is high are analyzed and listed.
-•	Whereas in this application current updates are possible.
+•	Data provided after analysis is accurate.                                                                                             
+•	All data are made available in single analysis                                                                                       
+•	The regions where the vehicle theft is high are analyzed and listed.                                                                 
+•	Whereas in this application current updates are possible.                                                                            
 
 
 FUTURE ENHANCEMENTS :                                                                                                               
