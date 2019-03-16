@@ -1,1 +1,2 @@
 # Vehicle-Theft-Analysis
+This system helps in analyzing the theft claims and revert with premium changes based on various aspects of theft.Our proposed system reduces the disadvantage by manually updating the database and producing updated visualized data to the users.The datasets are updated in particular interval of time so that the results visualized are more accurate. Tableau is the technology used to visualize the data. It explores in real time and reacts to change faster.
