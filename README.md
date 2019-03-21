@@ -12,7 +12,20 @@ Team Members
       IV - B                                                                                                                             
    3. Vijay Venkatesh .R.S                                                                                                               
       15CSA71                                                                                                                           
-      IV - B                                                                                                                                                                                                                                                          
+      IV - B   
+      
+      
+Module Split-up
+     1 Dataset Module (Done by Suchitra, suvetha and vijay)                                                                            
+     2 Updation Module (Done by Suchitra, suvetha and vijay)                                                                           
+     3 Data Cleaning Module (Done by Vijay Venkatesh)                                                                                   
+     4 Prediction Algorithm Module                                                                                                      
+          4.1  K-Means clustering (Done by Suchitra priyadarshini)                                                                      
+          4.2  Linear Regression (Done by Suvetha Sri)                                                                                  
+     5 Analysis Module                                                                                                                  
+          5.1   Visualization (Done by Suvetha Sri)                                                                                     
+          5.2   Tableau (Done by Suchitra priyadarshini)                                                                                
+
       
 PROBLEM STATEMENT :                                                                                                                     
 This system helps in analyzing the theft claims and revert with premium changes based on various aspects of theft.Our proposed system reduces the disadvantage by manually updating the database and producing updated visualized data to the users.The datasets are updated in particular interval of time so that the results visualized are more accurate. Tableau is the technology used to visualize the data. It explores in real time and reacts to change faster.
