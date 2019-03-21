@@ -41,10 +41,8 @@ ADVANTAGES :
 
 
 FUTURE ENHANCEMENTS :                                                                                                               
-We have proposed an efficient financial system in which the transactions are sim based and the details of customer are securely saved both in system server and web server.
-Our project may be enhanced in future by implementing the satellite for an individual organization. So, the speed of transaction through satellite will be very fast.
+False theft cases can be analysed and reported in minimal time. Agents under whom the false insurance is claimed can also be analysed.
 
 
 CONCLUSION :                                                                                                                         
-We have proposed an efficient financial system transactions based on sim cards. The details of customer which are registered are saved in the system server and web server in the secured manner. The confidentiality in our project is, unauthorized users cannot hack the transactions. Since the transactions are sim based, it is limited within an individual organization.
-
+In vehicle theft analysis we have overcome major disadvantages of the existing system. The results visualized are more accurate. The Updation of the data in the dataset are made manual and it is regular. This process of updating data about all type of vehicle thefts consumes much lesser time. Regions where the theft is high are also analysed and visualized.
