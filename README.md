@@ -16,12 +16,14 @@ Team Members
       
       
 MODULE SPLIT-UP :                                                                                                                                                                                                                                              
-        1 Dataset Module (Done by Suvetha Sri and Vijay Venkatesh)                                                                                                                                                     2 Updation Module (Done by Suchitra, Suvetha and Vijay)                                                                                 3 Data Cleaning Module (Done by Vijay Venkatesh)                                                                                         4 Prediction Algorithm Module                                                                                                      
-              4.1  K-Means clustering (Done by Suchitra priyadarshini)                                                                      
-              4.2  Linear Regression (Done by Suvetha Sri)                                                                                  
-        5 Analysis Module                                                                                                                  
-               5.1   Visualization (Done by Suvetha Sri)                                                                                     
-               5.2   Tableau (Done by Suchitra priyadarshini)                                                                                
+        1.Dataset Module (Done by Suchitra priyadarshini, Suvetha Sri)                                                                   
+        2.Data Cleaning Module (Done by Vijay Venkatesh)
+        3.Prediction Algorithm Module                                                                                           
+              3.1  K-Means clustering (Done by Suchitra priyadarshini)                                                                      
+              3.2  Linear Regression (Done by Suvetha Sri)                                                                                  
+        4.Analysis Module                                                                                                                  
+               4.1   Visualization (Done by Suvetha Sri)                                                                                     
+               4.2   Tableau (Done by Suchitra priyadarshini)                                                                                
 
       
 PROBLEM STATEMENT :                                                                                                                     
