@@ -15,7 +15,7 @@ Team Members
       IV - B   
       
       
-Module Split-up                                                                                                                         
+MODULE SPLIT-UP :                                                                                                                                                                                                                                              
         1 Dataset Module (Done by Suvetha Sri and Vijay Venkatesh)                                                                               2 Updation Module (Done by Suchitra, Suvetha and Vijay)                                                                                 3 Data Cleaning Module (Done by Vijay Venkatesh)                                                                                         4 Prediction Algorithm Module                                                                                                      
               4.1  K-Means clustering (Done by Suchitra priyadarshini)                                                                      
               4.2  Linear Regression (Done by Suvetha Sri)                                                                                  
