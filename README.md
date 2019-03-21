@@ -15,7 +15,7 @@ Team Members
       IV - B   
       
       
-Module Split-up
+Module Split-up                                                                                                                         
      1 Dataset Module (Done by Suchitra, suvetha and vijay)                                                                            
      2 Updation Module (Done by Suchitra, suvetha and vijay)                                                                           
      3 Data Cleaning Module (Done by Vijay Venkatesh)                                                                                   
