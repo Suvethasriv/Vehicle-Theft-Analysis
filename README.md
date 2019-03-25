@@ -16,7 +16,7 @@ Team Members
       
       
 MODULE SPLIT-UP :                                                                                                                                                                                                                                                                                                                                                                                             
-        1.Prediction Algorithm Module
+        1.Prediction Algorithm Module                                                                                                   
               1.1 Data Cleaning Module (Done by Vijay Venkatesh)                                                                           
               1.2  K-Means clustering (Done by Suchitra priyadarshini)                                                                                                                                        
               1.3  Linear Regression (Done by Suvetha Sri)                                                                                  
